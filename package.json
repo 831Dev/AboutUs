@@ -1,0 +1,29 @@
+{
+  "name": "aboutus",
+  "version": "1.0.0",
+  "description": "Presentation about us",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/831Dev/AboutUs.git"
+  },
+  "keywords": [
+    "831dev"
+  ],
+  "author": "eric chavez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/831Dev/AboutUs/issues"
+  },
+  "homepage": "https://github.com/831Dev/AboutUs#readme",
+  "devDependencies": {
+    "http-server": "^0.10.0"
+  },
+  "dependencies": {
+    "reveal": "0.0.4"
+  }
+}
